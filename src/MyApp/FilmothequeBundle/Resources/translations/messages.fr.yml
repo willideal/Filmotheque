@@ -1,0 +1,8 @@
+acteur: Acteur 
+acteur.nom: Nom 
+acteur.prenom: Prénom 
+acteur.dateNaissance: Date de naissance 
+acteur.sexe: Sexe 
+acteur.liste: Liste des acteurs
+acteur.ajouter: Ajouter un acteur 
+# ...

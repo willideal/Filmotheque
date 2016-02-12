@@ -1,0 +1,8 @@
+acteur: Actor 
+acteur.nom: Last name 
+acteur.prenom: First name 
+acteur.dateNaissance: Date of birth 
+acteur.sexe: Gender 
+acteur.liste: Actors list 
+acteur.ajouter: Add an actor
+# ... 
